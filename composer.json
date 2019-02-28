@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Royalcms\\Component\\View\\": ""
+            "Royalcms\\Component\\View\\": "Royalcms/Component/View"
         }
     },
     "extra": {
